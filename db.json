@@ -1,39 +1,104 @@
 {
-  "workouts": [
+  "transactions": [
     {
       "id": 1,
-      "name": "High-Intensity Interval Training (HIIT)",
-      "image": "https://media.istockphoto.com/id/1305549557/photo/fit-hispanic-woman-in-activewear-exercising-at-the-gym.jpg?s=612x612&w=0&k=20&c=ucd0sF0rK5HboyBPh045-eDRPOerGaV25blPvJ5CP_4=",
-      "description": "HIIT workouts involve short bursts of intense exercises followed by brief rest or low-intensity recovery periods. For example, you could do 30 seconds of jumping jacks, followed by 30 seconds of rest, and then repeat the cycle for 15-20 minutes. HIIT is excellent for burning calories, improving cardiovascular health, and increasing endurance.",
-      "status": false
+      "date": "2019-12-01",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
     },
     {
       "id": 2,
-      "name": "Bodyweight Circuit Workout",
-      "image": "https://prod-ne-cdn-media.puregym.com/media/810213/bodyweight.jpg?quality=80",
-      "description": "This workout utilizes your body weight for resistance. A circuit typically includes exercises like push-ups, squats, lunges, planks, and burpees. Perform each exercise for 45 seconds, followed by 15 seconds of rest. Complete the entire circuit, rest for 1-2 minutes, and then repeat for 3-4 rounds. Bodyweight circuits improve overall strength, endurance, and flexibility.",
-      "status": false
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
     },
     {
       "id": 3,
-      "name": "Yoga and Stretching Routine",
-      "image": "https://media.post.rvohealth.io/wp-content/uploads/2019/10/cobra-pose-yoga-back-bend-1200x628-facebook-1200x628.jpg",
-      "description": "Yoga combines physical postures, breathing exercises, and meditation. A typical yoga routine includes poses like downward dog, warrior poses, and child's pose. Incorporate stretching exercises to improve flexibility and balance. Yoga enhances flexibility, balance, and mental relaxation.",
-      "status": false
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
     },
     {
       "id": 4,
-      "name": "Circuit Training with Weights",
-      "image": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2021/05/shutterstock_413984332.jpg?fit=1000%2C618&ssl=1",
-      "description": "Use dumbbells or kettlebells for this workout. Create a circuit with exercises like bicep curls, shoulder presses, squats with weights, and bent-over rows. Perform 3 sets of 12-15 repetitions for each exercise with minimal rest between sets. Circuit training with weights builds muscle strength and endurance.",
-      "status": false
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
     },
     {
       "id": 5,
-      "name": "Outdoor Cardio Workout",
-      "image": "https://assets.speakcdn.com/assets/2400/outdoor-cardio-v2-640-290-blog-hero-image-01-min.png",
-      "description": "Take your workout outdoors for a refreshing experience. Jog or briskly walk in the park, interspersed with bodyweight exercises like push-ups, lunges, and jumping jacks. Use a park bench for step-ups and tricep dips. Aim for 30 minutes of continuous activity. Outdoor workouts provide fresh air, boost mood, and enhance cardiovascular health.",
-      "status": false
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": 6,
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
+    },
+    {
+      "id": 7,
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": 8,
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
+    },
+    {
+      "id": 9,
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": 10,
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
+    },
+    {
+      "id": 11,
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "id": 12,
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
+    },
+    {
+      "date": "2022-07-09",
+      "description": "Office lunch",
+      "category": "Food",
+      "amount": "2000",
+      "id": 13
+    },
+    {
+      "date": "2022-07-09",
+      "description": "Office lunch Wednesday",
+      "category": "Food",
+      "amount": "3000",
+      "id": 14
     }
+  
   ]
-}
+  
+ }
